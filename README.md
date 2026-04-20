@@ -3,7 +3,6 @@
 <p align="center">
 💻 Futuro Engenheiro de Software <br>
 📚 Atualmente estudando Front-end <br>
-🌎 Brasil
 </p>
 
 ---
