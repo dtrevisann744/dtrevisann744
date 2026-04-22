@@ -28,7 +28,7 @@
 
 ### 📈 Objetivo atual
 
-Me tornar um desenvolvedor completo, dominando front-end e evoluindo para back-end, sempre focando em código limpo e boas práticas.
+Me tornar um Engenheiro de Software completo, dominando front-end e evoluindo para back-end, sempre focando em código limpo e boas práticas.
 
 ---
 
