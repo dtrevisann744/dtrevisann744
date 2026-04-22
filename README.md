@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Daniel 👋</h1>
+<h1 align="center">Olá, meu nome é Daniel Trevisan 👋</h1>
 
 <p align="center">
 💻 Futuro Engenheiro de Software <br>
