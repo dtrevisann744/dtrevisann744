@@ -32,6 +32,19 @@ Me tornar um Engenheiro de Software completo, dominando front-end e evoluindo pa
 
 ---
 
+### 🌐 Minhas redes sociais
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-trevisan-718a5937a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/d.trevisann" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
 ✨ Em constante evolução!
 </p>
