@@ -41,7 +41,7 @@ Me tornar um Engenheiro de Software completo, dominando front-end e evoluindo pa
   <a href="https://instagram.com/d.trevisann" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="dtrevisan744@gmail.com">
+  <a href="mailto:dtrevisan744@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
