@@ -1,38 +1,60 @@
-<h1 align="center">Olá, meu nome é Daniel Trevisan 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Daniel+Trevisan+👋" alt="Typing SVG" />
+</h1>
 
 <p align="center">
 💻 Futuro Engenheiro de Software <br>
 📚 Atualmente estudando Front-end <br>
+🚀 Em constante evolução
 </p>
 
 ---
 
-### 🚀 Sobre mim
+## 🚀 Sobre mim
 
-* 🎯 Objetivo: Me tornar um Engenheiro de Software
-* 📖 Estudando: HTML, CSS e JavaScript
-* 🧠 Sempre aprendendo e evoluindo na programação
+- 🎯 Objetivo: Me tornar um Engenheiro de Software
+- 📖 Estudando: HTML, CSS e JavaScript
+- 🧠 Sempre aprendendo e evoluindo na programação
+- 🔥 Foco em código limpo e boas práticas
 
 ---
 
-### 🛠️ Tecnologias
+## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
 
 ---
 
-### 📈 Objetivo atual
+## 📊 Estatísticas do GitHub
 
-Me tornar um Engenheiro de Software completo, dominando front-end e evoluindo para back-end, sempre focando em código limpo e boas práticas.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dtrevisann744&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtrevisann744&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
+</p>
 
 ---
 
-### 🌐 Conecte-se comigo
+## 🔥 Streak de Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dtrevisann744&theme=tokyonight&locale=pt_BR" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🎯 Meus Objetivos
+
+- Dominar as principais tecnologias do desenvolvimento web
+- Construir projetos completos com front-end e back-end
+- Aprender boas práticas e arquitetura de software
+- Conquistar minha primeira oportunidade como desenvolvedor
+- Me tornar um Engenheiro de Software completo
+
+---
+
+## 🌐 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-trevisan-718a5937a/" target="_blank">
@@ -49,5 +71,10 @@ Me tornar um Engenheiro de Software completo, dominando front-end e evoluindo pa
 ---
 
 <p align="center">
-✨ Em constante evolução!
+  <img src="https://komarev.com/ghpvc/?username=dtrevisann744&label=Visualizações&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
+
+---
+
+<p align="center">
+✨ Em constante evolução e construindo meu futuro na tecnologia! 🚀
